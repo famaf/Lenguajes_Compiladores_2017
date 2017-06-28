@@ -3,7 +3,7 @@ Taller
 
 Descargar el archivo, allí se encuentra la definición de la gramática abstracta
 (o una representación en Haskell de ella, ¿existe algo así como la gramática abstracta?)
-junto con otros módulos útiles como la representación de Ω y funciones para manipular el estado.  
+junto con otros módulos útiles como la representación de Ω y funciones para manipular el estado.
 La tarea consiste en definir las funciones semánticas para cada categoría sintáctica:
 
     * IntExp

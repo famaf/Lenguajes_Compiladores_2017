@@ -24,5 +24,4 @@ exec comm = run $ eval comm initState
 $ ghci Main Examples
 *Main> import Examples
 *Main Examples> exec commex
-
 -}
